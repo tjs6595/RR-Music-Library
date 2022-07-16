@@ -1,4 +1,4 @@
-import GalleryItem from './GalleryItem'
+import GalleryItem from '../components/GalleryItem'
 
 function Gallery(props){
 
@@ -17,5 +17,3 @@ function Gallery(props){
 
 
 export default Gallery
-
-
