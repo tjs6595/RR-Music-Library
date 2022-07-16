@@ -14,9 +14,5 @@ function SearchBar(props) {
     )
 }
 
-<<<<<<< HEAD
 export default SearchBar
 
-=======
-export default SearchBar
->>>>>>> with_router
